@@ -1,0 +1,24 @@
+Developer Account:
+Email: hotelbooking010@gmail.com
+Password: ProjectHotel2023
+
+
+https://www.sandbox.paypal.com/signin?returnUri=https%3A%2F%2Fwww.sandbox.paypal.com%2Fmep%2F
+
+Sandbox - Personal:
+sb-cuvhv26801402@personal.example.com
+ProjectHotel2023
+
+
+Sandbox - Business:
+sb-2fjsp26195583@business.example.com
+ProjectHotel2023
+
+
+API Credential:
+APP Name: HOTEL_APP_NEW
+sb-2fjsp26195583@business.example.com
+Client ID:
+AYwPPevrrpl73-svHLJUXD5ynstwr7egwCDyHjQEqRl1OVsJZ_-_BP1VGZX4zNiYMTsfI_RhznJTNSAf
+Secret:
+EDdXjmstuOPTFNVpdRminE3qjuHLeSzdB5zMLxs-Bd1EqglEzuME9QeykgCpc25MbZjXn0MSawkq0_m_
